@@ -1,5 +1,6 @@
 Description of script usage for Glycine project-
 Some scripts perform almost identically, but may be preferred depending on the objective.
+Code and metioned data is in the zip file
 Almost all of these functions use Gannet and/or FID-A in one way or another: 
 https://github.com/markmikkelsen/Gannet
 https://github.com/CIC-methods/FID-A
