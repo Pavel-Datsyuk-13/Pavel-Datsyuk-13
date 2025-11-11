@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pavel-Datsyuk-13
+- 👋 Hi, I’m @justinsinger2
 - 👀 I’m interested in ... Biomedical Engineering/ Medical Imaging
 - 😄 Pronouns: ... He/Him
 -
