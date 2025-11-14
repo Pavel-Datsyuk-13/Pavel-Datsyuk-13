@@ -1,4 +1,6 @@
-Description of scripts / data usage for Glycine project-
+Description of scripts / data usage for "Simultaneous detection of GABA and Glycine using MEGA-PRESS with TE optimization at 3T"
+If you use this code, please cite the afformentioned paper.
+
 Many of these functions require GANNET and/or FID-A, which can be found at: 
 
 https://github.com/markmikkelsen/Gannet
