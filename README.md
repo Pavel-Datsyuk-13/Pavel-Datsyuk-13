@@ -78,5 +78,5 @@ Gly_mI_sims - .MAT files used in Gly+mI simulations (edit OFF / SUM) TE 64 & 68 
 
 GABA_TE_series - .MAT files used for GABA area simulations with TE-modulation and T2-modulation
 
-Gly_mI_TE_series - .MAT files used to analyze RMS contribution in 3.4 - 3.7 ppm range (Glucose, Threonine, Gly, mI) TE's used = 60-88 ms (2 ms step-size)
+Gly_mI_TE_series - .MAT files used to analyze RMS contribution in 3.5 - 3.6 ppm range (Glucose, Threonine, Gly, mI) TE's used = 60-88 ms (2 ms step-size)
 
