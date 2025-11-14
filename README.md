@@ -1,7 +1,7 @@
 Description of scripts /simulated data usage for Glycine project-
 Some scripts perform almost identically, but may be preferred depending on the objective.
 Code is in ZIP file, data is stored in google drive link.
-Many all these functions require GANNET and/or FID-A, which can be found at: 
+Many of these functions require GANNET and/or FID-A, which can be found at: 
 
 https://github.com/markmikkelsen/Gannet
 
@@ -17,9 +17,9 @@ ALL DATA FILES ARE IN THIS GOOGLE DRIVE LINK: https://drive.google.com/drive/fol
 ------------------------------------------------------- GENERAL SCRIPTS ---------------------------------------------------------
 
 
-WritedotMATjrs_v2.m - Runs loop through Gannet to convert .SDAT to .mat for in vivo spectra, also performs manual phase correction and freq correction. 
+WritedotMATjrs_v2.m - Runs a loop through Gannet to convert .SDAT to .mat for in vivo spectra, also performs manual phase correction and frequency correction. 
 
-WriteRaw4LCMjrs.m - Writes the .mat spectra to LCM .raw file
+WriteRaw4LCMjrs.m - Writes the .mat spectra to LCM .raw files
 
 
 RMS_simulation_forpaper.m - Calculates and plots RMS of metabolite as function of TE
@@ -31,10 +31,10 @@ plotting_coords_v2.m - Plots the .coord file outputs from LCM; used to generate 
 DiffSpecdotMATs_v2.m - Extracts GABA/Glx areas and concentrations; plots results and runs statistics
 
 
-GABAGlxsimAreas.m - GABA/Glx areas, plotting the multiplet shape and the areas, also has spatial plotting option similar to script below.
+GABAGlxsimAreas.m - GABA/Glx areas, plotting the multiplet shape and the areas, also has spatial plotting option similar to the script below.
 
 
-generatespatialplots.m - takes FID-A outputs and plots spectra across the 19x19 simulation grid (36mm^2 total area) to visualize transition BW effects
+generatespatialplots.m - takes FID-A outputs and plots spectra across the 19x19 simulation grid (36mm^2 total area) to visualize transition bandwidth effects
 
 
 LCMcsvStats.m - Main LCM processing script given CSV outputs; Concentrations, CVs, CRLBs
@@ -43,7 +43,7 @@ LCMcsvStats.m - Main LCM processing script given CSV outputs; Concentrations, CV
 CRLB_comp_GlyvsNoGly & NoGlyAnalysis_v2.m - Stats for Glycine in/exclusion; can be modified for use of removal or inclusion of any metabolite 
 
 
-Gly_mI_simulations.m - Plots the simulted specrta as a function of Gly/mI concentration and LW. 
+Gly_mI_simulations.m - Plots the simulated spectra as a function of Gly/mI concentration and LW. 
  
 
 -------------------------------------------------------- "Short" functions -------------------------------------------------------- 
@@ -78,5 +78,5 @@ Gly_mI_sims - .MAT files used in Gly+mI simulations (edit OFF / SUM) TE 64 & 68 
 
 GABA_TE_series - .MAT files used for GABA area simulations with TE-modulation and T2-modulation
 
-Gly_mI_TE_series - .MAT files used to analyze RMS contribution in 3.5 - 3.6 ppm range (Glucose, Threonine, Gly, mI) TE's used = 60-88 ms (2 ms step-size)
+Gly_mI_TE_series - .MAT files used to analyze RMS contribution in 3.5 - 3.6 ppm range (Glucose, Threonine, Gly, mI) TEs used = 60-88 ms (2 ms step size)
 
