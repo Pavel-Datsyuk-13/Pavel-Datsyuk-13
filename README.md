@@ -1,7 +1,7 @@
-Description of script /simulated data usage for Glycine project-
+Description of scripts /simulated data usage for Glycine project-
 Some scripts perform almost identically, but may be preferred depending on the objective.
-Code and metioned data is in the zip file
-Nearly all of functions use Gannet and/or FID-A, which can be found at: 
+Code is in ZIP file, data is stored in google drive link.
+Many all these functions require GANNET and/or FID-A, which can be found at: 
 
 https://github.com/markmikkelsen/Gannet
 
