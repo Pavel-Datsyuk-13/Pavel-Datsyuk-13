@@ -7,6 +7,7 @@ https://github.com/markmikkelsen/Gannet
 
 https://github.com/CIC-methods/FID-A
 
+ALL DATA FILES ARE IN THIS GOOGLE DRIVE LINK: https://drive.google.com/drive/folders/1agYTJLwY6icosPg6LDW0d-fIPu1lXpgC?usp=sharing
 .
 .
 .
@@ -71,7 +72,6 @@ plist.m - Creates an array of subjects like: P1, P2, etc... based on input (star
 
 -------------------------------------------------------- Simulated data (all zip files) -------------------------------------------------------
 
-*** ALL DATA FILES ARE STORED AS ZIP FILES IN THIS GOOGLE DRIVE LINK: https://drive.google.com/drive/folders/1agYTJLwY6icosPg6LDW0d-fIPu1lXpgC?usp=sharing
 
 Gly_mI_sims - .MAT files used in Gly+mI simulations (edit OFF / SUM) TE 64 & 68 ms with variable concentration ratios and exponential LB
 
